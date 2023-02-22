@@ -1,0 +1,28 @@
+.navbar-nav a{
+    margin-left: 40px;
+}
+
+.navbar-brand:hover{
+    color: orange;
+}
+
+.navbar-nav a:hover{
+    color: orange;
+}
+
+.titolo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px; 
+}
+
+
+#albumpreferiti{
+    margin-top: 20px;
+}
+
+#albumnonpreferiti{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
